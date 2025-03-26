@@ -8,4 +8,4 @@ Link de la actividad en JIRA
 Liste las pruebas realizadas (pruebas unitarias, seguridad, E2E) y el entorno (local o alguno en específico).
 
 ## @Menciones (opcional)
-Mencione a los revisores.
+Mencione a los revisores.@ daszdee
